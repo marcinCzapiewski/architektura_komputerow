@@ -22,4 +22,4 @@ main:
 .data
 number: .long 0
 format: .asciz "%d"
-result: .asciz "%d\n"
+    result: .asciz "%d\n"
